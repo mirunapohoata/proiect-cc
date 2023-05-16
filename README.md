@@ -32,7 +32,7 @@ Vercel realizează în mod automat scalarea aplicațiilor, ceea ce înseamnă c�
 
 •	Cea de-a treia pagină este cea care conține chatbot-ul ChatGPT, cu care utilizatorul poate interacționa. Această funcționalitate a fost realizată utilizând modelul din cadrul seminarului, cu anumite customizări.
 
-![image](https://github.com/mirunapohoata/proiect-cc/assets/91715501/ebd1093d-eb84-41dc-a6a9-0956074cfd03)
+![Screenshot 2023-05-16 at 17 59 59](https://github.com/mirunapohoata/proiect-cc/assets/91715501/0238e409-9132-403e-86a4-e88f42eaa91f)
 
 ## Referințe
 Documentație seminar    
