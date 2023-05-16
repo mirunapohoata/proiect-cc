@@ -24,11 +24,11 @@ Vercel realizează în mod automat scalarea aplicațiilor, ceea ce înseamnă c�
 
  • Prima pagină a aplicației este cea de pe care utilizatorul poate să vizualizeze și să gestioneze notițele personale. Fiecare notiță are în partea de jos butonul de erase, de pe care se realizează ștergerea. Navigarea către celelalte pagini se realizează prin meniul din stânga ecranului.
 
-![image](https://github.com/mirunapohoata/proiect-cc/assets/91715501/6c4947fd-4855-4b6d-907c-200d62f6e9d6)
+![Screenshot 2023-05-16 at 17 59 34](https://github.com/mirunapohoata/proiect-cc/assets/91715501/0a7d4f6c-a51d-4190-8ba8-0ba1c2a00c96)
 
 •	Pagina de inserare, este cea care îi permite utilizatorului să creeze noi notițe. Datele se introduc în formular și sunt adăugate în baza de date, și automat pe prima pagină, prin intermediul butonului de submit.
 
-![image](https://github.com/mirunapohoata/proiect-cc/assets/91715501/7ec0ab10-513b-4c42-a449-a6332ec32610)
+![Screenshot 2023-05-16 at 17 59 46](https://github.com/mirunapohoata/proiect-cc/assets/91715501/38775582-5f4a-4bb8-a891-7ff81ee5fa4b)
 
 •	Cea de-a treia pagină este cea care conține chatbot-ul ChatGPT, cu care utilizatorul poate interacționa. Această funcționalitate a fost realizată utilizând modelul din cadrul seminarului, cu anumite customizări.
 
