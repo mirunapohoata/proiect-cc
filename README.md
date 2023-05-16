@@ -19,7 +19,7 @@ Vercel realizează în mod automat scalarea aplicațiilor, ceea ce înseamnă c�
 
 # Capturi de ecran din aplicație
 
-	Prima pagină a aplicației este cea de pe care utilizatorul poate să vizualizeze și să gestioneze notițele personale. Fiecare notiță are în partea de jos butonul de erase, de pe care se realizează ștergerea. Navigarea către celelalte pagini se realizează prin meniul din stânga ecranului.
+  Prima pagină a aplicației este cea de pe care utilizatorul poate să vizualizeze și să gestioneze notițele personale. Fiecare notiță are în partea de jos butonul de erase, de pe care se realizează ștergerea. Navigarea către celelalte pagini se realizează prin meniul din stânga ecranului.
 
 
 
