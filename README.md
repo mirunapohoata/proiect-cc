@@ -2,10 +2,8 @@
 
   Scopul principal al aplicației de față este gestionarea în mod virtual a clasicelor sticky notes pe care cu siguranță fiecare dintre noi le folosește în viața de zi cu zi. Astfel, utilizatorul poate să creeze și să își lase pe „perete” note către sine însuși, pe care mai apoi le poate șterge. Aplicația este formată din trei pagini, prima de unde pot fi vizualizate și șterse notițele, pagina de creare notițe, și cea în care am integrat utilizând API-ul de la OpenAi, bine-cunoscutul chatbot ChatGPT.
   
-Link video prezentare: https://youtu.be/IwhcRQXVq0U
-Link aplicație Vercel: https://proiect-cc.vercel.app/
-Link repository: https://github.com/mirunapohoata/proiect-cc
-
+Link video prezentare: https://youtu.be/IwhcRQXVq0U 
+Link aplicație Vercel: https://proiect-cc.vercel.app/ 
 
 # Descrierea tehnologiilor cloud folosite
 
@@ -40,5 +38,5 @@ Vercel realizează în mod automat scalarea aplicațiilor, ceea ce înseamnă c�
 Documentație seminar
 https://www.mongodb.com/basics/mongodb-atlas-tutorial
 https://vercel.com/blog/what-is-vercel
-![image](https://github.com/mirunapohoata/proiect-cc/assets/91715501/f148fbe3-03ce-47c7-afa5-76479e609804)
+
 
