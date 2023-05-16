@@ -4,7 +4,7 @@
 
 # Descrierea tehnologiilor cloud folosite
 
-_## MongoDB_
+## _MongoDB_
 
   MongoDB Atlas este un foarte popular sistem de gestionare a bazelor de date în cloud, care permite gestionarea acestora fără a avea nevoie să deținem sau să configurăm infrastructura fizică. Sistemul se ocupă în cea mai mare măsură de implementarea, gestionarea și rezolvarea eventualelor probleme ce pot să apară în ceea ce privește instanța noastră din cadrul furnizorului de servicii cloud ales (de exemplu AWS, Azure etc.).  
 MongoDB Atlas oferă o securitate ridicată a datelor, asigurată prin diverse mijloace și metode, precum autorizare, autentificare sau criptare. Mai mult, utilizatorii au posibilitatea de a-și crea propriile reguli de acces. Tot ca măsură de securitate, instanțele de baze de date nou create nu au implicit acces la rețea. Astfel, utilizatorul trebuie să permită accesul de pe mai multe adrese IP.
